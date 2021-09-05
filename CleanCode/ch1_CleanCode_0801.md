@@ -12,7 +12,7 @@
 
 
 
-<img src="ch1_0801.assets/image.png">
+<img src="img/image.png">
 
 
 
