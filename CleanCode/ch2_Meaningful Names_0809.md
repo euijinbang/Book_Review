@@ -1,24 +1,11 @@
-# Ch 2 : Meaningful Names
+# Meaningful Names
 
-
-
-> - will be able to tell the difference between good code and bad code
->
-> - will know how to write good code
->
-> - will kow how to transform bad code into good code
+변수, 함수, 클래스의 이름은 모든 큰 질문에 답할 수 있어야 한다.
+왜 존재하고, 무엇을 하는지, 어떻게 하는지를 말할 수 있어야 한다.
 
 
 
 ### Use Intention-Revealing Names
-
-```
-The name of a variable, function, or class, should answer all the big questions. It
-should tell you why it exists, what it does, and how it is used. 
-
-변수, 함수, 클래스의 이름은 모든 큰 질문에 답할 수 있어야 한다.
-왜 존재하고, 무엇을 하는지, 어떻게 하는지를 말할 수 있어야 한다.
-```
 
 - We should choose a name that specifies what is being measured and the unit of that measurement
 

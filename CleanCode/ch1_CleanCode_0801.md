@@ -1,4 +1,4 @@
-# Ch 1 : Clean Code
+# Clean Code
 
 
 
