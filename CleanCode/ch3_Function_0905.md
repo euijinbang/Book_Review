@@ -1,6 +1,7 @@
 # Functions
 
-함수는 언어의 동사이다.
+> 함수는 언어의 동사이다.
+>
 
 ```bash
 Functions are the verbs of that language, and classes are the nouns.
