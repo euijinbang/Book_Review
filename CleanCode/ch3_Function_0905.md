@@ -1,15 +1,15 @@
 # Functions
 
-> 함수는 언어의 동사이다.
+> 함수는 언어의 동사이며 클래스는 언어의 명사이다. 
 >
 
 ```bash
-Functions are the verbs of that language, and classes are the nouns.
+# Functions are the verbs of that language, and classes are the nouns.
 ```
 
 
 
-### Small!
+## Small!
 
 > The first rule of functions is that they should be small. 
 >
@@ -25,17 +25,17 @@ the indent level of a function should not be greater than one or two.
 
 
 
-### Do One Thing
+## Do One Thing
 
 > FUNCTIONS SHOULD DO ONE THING. THEY SHOULD DO IT WELL. THEY SHOULD DO IT ONLY.
 
 
 
-### One Level of Abstraction per Function
+## One Level of Abstraction per Function
 
 In order to make sure our functions are doing “one thing,” we need to make sure that the statements within our function are all at the same level of abstraction.
 
-##### The Stepdown Rule
+## The Stepdown Rule
 
 ```bash
 To say this differently, we want to be able to read the program as though it were a set of TO paragraphs, each of which is describing the current level of abstraction and referencing subsequent TO paragraphs at the next level down.
@@ -43,7 +43,7 @@ To say this differently, we want to be able to read the program as though it wer
 
 
 
-### Switch Statements
+## Switch Statements
 
 bury the switch statement in the basement of an ABSTRACT FACTORY
 
@@ -62,13 +62,13 @@ every module, class or function in a computer program should have responsibility
 
 
 
-### Use Descriptive Names
+## Use Descriptive Names
 
 A long descriptive name is better than a short enigmatic name
 
 
 
-### Function Arguments
+## Function Arguments
 
 > The ideal number of arguments for a function is zero (niladic). 
 >
@@ -80,25 +80,25 @@ A long descriptive name is better than a short enigmatic name
 
 
 
-### Command Query Separation
+## Command Query Separation
 
 Functions should either do something or answer something, but not both.
 
 
 
-### Prefer Exceptions to Returning Error Codes
+## Prefer Exceptions to Returning Error Codes
 
 if you use exceptions instead of returned error codes, then the error processing code can be separated from the happy path code and can be simplified
 
 
 
-### Don't Repeat Yourserlf(DRY)
+## Don't Repeat Yourself(DRY)
 
 Duplication may be the root of all evil in software.
 
 
 
-### Structured Programming
+## Structured Programming
 
 ```
 there should only be one return statement in a function, no break or continue statements in a loop, and never, ever, any goto statements.
@@ -106,6 +106,6 @@ there should only be one return statement in a function, no break or continue st
 
 
 
-### How Do You Write Functions Like This?
+## How Do You Write Functions Like This?
 
-=> **write the first draft, refine that code, splitting out functions, chagning names, eliminating duplication!**
+> write the first draft, refine that code, splitting out functions, chagning names, eliminating duplication!

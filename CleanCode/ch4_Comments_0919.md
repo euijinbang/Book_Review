@@ -2,23 +2,19 @@
 
 > 주석은 최소화하고 코드로 최대한 표현하자.
 
-
-
 ```bash
-The proper use of comments is to compensate for our failure to express ourself in
-code.
-Inaccurate comments are far worse than no comments at all.
+# The proper use of comments is to compensate for our failure to express ourself in code. Inaccurate comments are far worse than no comments at all.
 ```
 
 
 
-### Comments Do Not Make Up for Bad Code
+## Comments Do Not Make Up for Bad Code
 
 주석은 적게, 코드는 깔끔하고 표현력 있게 작성하자.
 
 
 
-### Good Comments
+## Good Comments
 
 좋은 코드도 있다.
 
@@ -40,7 +36,7 @@ Inaccurate comments are far worse than no comments at all.
 
 
 
-### Bad Comments
+## Bad Comments
 
 나쁜 코드들
 

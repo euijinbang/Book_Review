@@ -1,14 +1,12 @@
 # Clean Code
 
-
-
 > - will be able to tell the difference between good code and bad code
->
-> - will know how to write good code
->
+>- will know how to write good code
 > - will kow how to transform bad code into good code
 
-
+> 클린 코드는 우아하고, 효율적이며, 하나에 집중하고, 가독성 높은 코드이다.
+>
+> "code-sense" 코드 센스를 지닌 개발자는 지저분한 모듈에서 옵션과 베리에이션을 찾아낸다.
 
 
 
@@ -16,13 +14,10 @@
 
 
 
+## clean code란 무엇인가
 
-
-### clean code란 무엇인가
-
-```
-"code-sense" 를 가지고 있다는 것!
-
+```python
+# "code-sense" 를 가지고 있다는 것!
 - A programmer with "code-sense" will look at a messy module and see options and variations
 - code-sence will help choose the best variation, guide him or her to plot a sequence of behavior preserving transformation to get from here to there.
 ```
@@ -34,10 +29,10 @@
 
 
 
-### bad code는 해롭다
+## bad code는 해롭다
 
 ```
-As the mess builds, the productivity of the team continues to decreasem asympotically approaching zero.
+As the mess builds, the productivity of the team continues to decrease m asympotically approaching zero.
 ```
 
 - release cyles are stretched
@@ -47,19 +42,19 @@ As the mess builds, the productivity of the team continues to decreasem asympoti
 
 
 
-### bad code의 원인
+## bad code의 원인
 
 - to meet the deadline?
 - trying to go fast
 - me in rush
 
 ```
-Why? Because we are "unprofessional"
+Why? Because we are "unprofessional".
 ```
 
 
 
-### The code has to be "kept clean"
+## The code has to be "kept clean"
 
 - It's not enough to write the code well. The code has to be kept clean over time.
 - check-in out code a little cleaner than we checked it out, the code simply could not rot.

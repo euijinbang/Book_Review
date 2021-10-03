@@ -6,7 +6,7 @@
 
 
 
-### Use Intention-Revealing Names
+## Use Intention-Revealing Names
 
 - We should choose a name that specifies what is being measured and the unit of that measurement
 
@@ -40,7 +40,7 @@
 
   
 
-### Avoid Disinformation
+## Avoid Disinformation
 
 - **Do not refer to a grouping of accounts as an 'accountList' unless it’s actually a List.**
 
@@ -62,7 +62,7 @@
 
   
 
-### Make Meaningful Distinctions
+## Make Meaningful Distinctions
 
 - Number-series naming (a1, a2, .. aN) is noninformative;
 
@@ -74,9 +74,9 @@
 
   
 
-### Use Pronounceable Names
+## Use Pronounceable Names
 
-### Use Searchable Names
+## Use Searchable Names
 
 - Single-letter names and numeric constants have a particular problem in that they are not easy to locate across a body of text.
 
@@ -88,22 +88,22 @@
 
   
 
-### Avoid Encodings
+## Avoid Encodings
 
-### Interfaces and Implementations
+## Interfaces and Implementations
 
 - interface 와 implementation 중 하나를 선택한다면 후자, Imp
 
 
 
-### Avoid Mental Mapping
+## Avoid Mental Mapping
 
 - clarity is king!
 - a loop counter 라도 i, j, k 는 되도록 피하자!
 
 
 
-### Class Names
+## Class Names
 
 - Class와 ojects 이름은 명사 또는 명사구일 것
 
@@ -117,7 +117,7 @@
 
   
 
-### Method Names
+## Method Names
 
 - Method 이름은 동사나 동사구일 것
 
@@ -144,7 +144,7 @@
 
 
 
-### Add Meaningful Context
+## Add Meaningful Context
 
 - 접두사(prefixes) 활용 한 variables 이름 예시
 
