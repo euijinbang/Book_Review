@@ -67,6 +67,7 @@
 ### Life
 
 - Lean in(린 인) - 셰릴 샌드버그
+- Changemaker - 이나리
 
 
 
